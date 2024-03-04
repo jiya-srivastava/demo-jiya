@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(img/op.jpeg);
+    background: linear-gradient(rgba(100, 77, 202, 0.37) rgba(231, 237, 238, 0.418),url(img/op.jpeg));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    min-height: 100vh;
+}
